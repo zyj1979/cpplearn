@@ -4,4 +4,5 @@
  18:09 test brach 
 in master branch 18:14
 2019-07-15 added
- 
+in linux sys, add some code!
+test git reset 
